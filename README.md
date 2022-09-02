@@ -81,3 +81,6 @@ const handleClick = () => {
 console.log(this)
 }
 button.addEventListener('click', handleClick)
+
+destructuring(비구조화)
+비구조화는 object나 array, 그 외 요소들 안의 변수를 바깥으로 끄집어 내서 사용할 수 있도록 하는 것.
